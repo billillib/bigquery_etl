@@ -1,0 +1,7 @@
+source:
+    project: bigquery-public-data
+    dataset_id: census_bureau_usa
+
+target:
+    bucket_name: billw_sample_bucket
+    file_extension: csv
