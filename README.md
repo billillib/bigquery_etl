@@ -1,2 +1,3 @@
-# bigquery_etl
-Pulling data from bigquery. 
+# Readme  
+
+This is the readme.
